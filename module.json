@@ -47,6 +47,9 @@
     },
     "atmel": {
       "mbed-hal-atmel": "^1.0.0"
+    },
+    "metanoia": {
+      "mbed-hal-metanoia": "^1.0.0"
     }
   }
 }
